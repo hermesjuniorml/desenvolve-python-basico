@@ -1,0 +1,5 @@
+1-Imprima na tela texto solicitando um valor para n
+2-Leia n
+3-Declare a variavel resultado
+4-Calcule ((n-1)*10)+(10-n) e armazene na variável resultado
+5-Imprima a variável resultado na tela
