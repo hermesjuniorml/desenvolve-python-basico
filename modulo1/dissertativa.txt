@@ -1,0 +1,1 @@
+Primeiro, devemos saber do usuário qual o valor "n" deve ser multiplicado por 9. Após isso basta encontrar o valor "(n-1)" e multiplicá-lo por 10, em seguida basta adicionar a este valor o resultado de "(10-n)". Este valor encontrado será o resultado desejado de 9 multplicado por "n".
