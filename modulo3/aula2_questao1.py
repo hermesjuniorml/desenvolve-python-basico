@@ -1,0 +1,5 @@
+print("Para entrar no bar é necessário ser maior de idade")
+pessoa1=int(input("Por favor entre com a idade da primeira pessoa: "))
+pessoa2=int(input("Por favor entre com a idade da segunda pessoa: "))
+entrada_permitida = (pessoa1>17) and (pessoa2 >17)
+print(f"Possibilidade de entrada: ",entrada_permitida)
