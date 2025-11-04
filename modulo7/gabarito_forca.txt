@@ -1,0 +1,10 @@
+fogueira
+espada
+escudo
+cavaleiro
+esqueleto
+dragao
+lorde
+alma
+ferreiro
+vazio
