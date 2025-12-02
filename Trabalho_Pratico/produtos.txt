@@ -1,0 +1,2 @@
+caneta,9,5
+pincel,4,11
